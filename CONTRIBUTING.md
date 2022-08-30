@@ -7,6 +7,8 @@ comment in the issues thread and we will assign it to you. This is on first come
 
 - Raise an issue if you notice a bug / something to be missing / not working as expected
 
+- If you want to discuss something related to an issue, start a conversation in the issue itself or if it is not specific to the issue, start a thread in our [Discord server](https://discord.gg/a9FgEEuz5r)
+
 ## Setup
 
 1. Clone the repo

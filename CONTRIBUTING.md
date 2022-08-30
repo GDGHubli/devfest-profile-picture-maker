@@ -2,8 +2,10 @@
 
 If you are interested in contributing, clone the repo, browse and go through project README.md to understand this completely.  
 
-Go through the issues section to know what's going on with the project, if you see any unassigned issues and you are interested in working on it,
+- Go through the issues section to know what's going on with the project, if you see any unassigned issues and you are interested in working on it,
 comment in the issues thread and we will assign it to you. This is on first come first serve basis.
+
+- Raise an issue if you notice a bug / something to be missing / not working as expected
 
 ## Setup
 

@@ -1,4 +1,4 @@
-## Hello,
+## Hi there 👋,
 
 If you are interested in contributing, clone the repo, browse and go through project README.md to understand this completely.  
 

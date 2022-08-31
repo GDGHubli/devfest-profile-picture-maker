@@ -25,4 +25,4 @@ If you are not a part of community yet the join us [here](https://gdg.community.
 
 
 
-[Community website](https://gdg.community.dev/gdg-hubli) | [Twitter](https://twitter.com/GDGHubli) | [Instagram](https://www.instagram.com/gdghubli) | [LinkedIn](https://www.linkedin.com/company/gdghubli) | [Discord](https://discord.com/invite/ggd4JD3Kyh)
+[Community website](https://gdg.community.dev/gdg-hubli) | [Twitter](https://twitter.com/GDGHubli) | [Instagram](https://www.instagram.com/gdghubli) | [LinkedIn](https://www.linkedin.com/company/gdghubli) | [Discord](https://discord.gg/eddBwmgnqj)

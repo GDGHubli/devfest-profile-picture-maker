@@ -1,5 +1,5 @@
 # DevFest avatar generator (WIP)
-- by GDGHUbli community
+- by GDGHubli community
 
 A simple utility to generate a DevFest themed profile picture. 
 

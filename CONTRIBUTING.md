@@ -12,9 +12,9 @@ comment in the issues thread and we will assign it to you. This is on first come
 ## Setup
 
 1. Clone the repo
-2. Create a branch 
-3. Commit your change and push the branch
-4. Raise a pull request to main branch
+2. Create a branch by checking out from `development` branch
+3. Commit your changes and push the branch
+4. Raise a pull request to `development` branch
 
 No need to fork this repo, you can directly contribute to the same repo.
 

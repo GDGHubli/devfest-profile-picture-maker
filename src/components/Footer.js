@@ -10,8 +10,8 @@ function Footer() {
     <div className="flex flex-col">
         <p className="text-base font-normal mb-3">by GDG and WTM Hubli community</p>
         <div className="flex flex-row items-center">
-            <img  className="md:h-10 md:mr-10 h-6 mr-5" src="gdghubli-logo.png"/>
-            <img className="md:h-10 h-6" src="wtm-logo.png" />
+            <img alt="GDG Hubli" className="md:h-10 md:mr-10 h-6 mr-5" src="gdghubli-logo.png"/>
+            <img alt="WTM Hubli" className="md:h-10 h-6" src="wtm-logo.png" />
         </div>
     </div>
    </div>

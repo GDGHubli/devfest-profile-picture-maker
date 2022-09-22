@@ -2,14 +2,27 @@
   "name": "devfest-profile-picture-maker",
   "version": "0.1.0",
   "private": true,
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write"
+    ]
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,6 +51,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.7",
     "autoprefixer": "^10.4.11",
+    "eslint": "^8.23.1",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   }
